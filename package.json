@@ -1,0 +1,14 @@
+{
+  "name": "fpwl",
+  "version": "1.0.0",
+  "main": "index.css",
+  "files": ["templates/", "index.css"],
+  "keywords": ["css", "styles", "nunjucks", "templates"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcxwhiz/fpwl.git"
+  },
+  "author": "Josh Bedwell",
+  "license": "MIT",
+  "description": "Reusable CSS styles and Nunjucks templates"
+}
